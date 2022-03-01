@@ -13,4 +13,5 @@ opening tokens "{", "(" and "[". From that, it was easy to determine which was t
 
 # Executing the application:
 1. Make share you have installed at least jdk 8: `java -version`
-2. Open the project in any IDE of your preference e execute the main method. The program will 
+2. Open the project in any IDE of your preference e execute the main method. The program will request a starting expression
+and will validate the input.
